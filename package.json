@@ -16,11 +16,11 @@
   "author": "Adersh",
   "license": "ISC",
   "devDependencies": {
-    "autoprefixer": "^8.4.1",
+    "autoprefixer": "^10.4.14",
     "concat": "^1.0.3",
     "node-sass": "^4.9.0",
     "npm-run-all": "^4.1.3",
-    "postcss-cli": "^5.0.0"
+    "postcss-cli": "^10.1.0"
   },
   "dependencies": {}
 }
